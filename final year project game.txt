@@ -1,0 +1,12 @@
+	final year project game
+1) first I drew the idea of the game I am making how its gonna look and what I might add also but I still dont even know how to start
+
+2)now am watching tutoriels on game development without a game engine and in javascript 
+	then I might start watching some more indept tutoriel 
+			
+				ressources:
+	https://youtu.be/g-FpDQ8Eqw8?si=3wXke6F4sBAwYpTt mario in javascript
+	https://www.youtube.com/playlist?list=PLeq6D61AhCkfBk53zn2PiBO1nz8TqRSJs the full playlist of game dev in js
+	https://www.youtube.com/@ChrisCourses yotube channel about making games in js
+graphickat
+yt channel
