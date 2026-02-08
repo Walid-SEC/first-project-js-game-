@@ -1,39 +1,60 @@
-## GIF Demo
+# 🎮 First Project - JS Game
+
+A browser-based JavaScript game built with **vanilla JavaScript**, HTML, and CSS to learn the basics of **web development** and **game development**.
+
+---
+
+## 🎥 GIF Demo
 ![Gameplay GIF](gitassets/gameplaygif.gif)
 
-## Screenshots
-![Start Screen](gitassets/firstpic.png)  
-    
-![Gameplay](gitassets/gameplay.png)  
-    
-![Game over](gitassets/gameover.png)
+---
 
+## 📸 Screenshots
+**Start Screen**  
+![Start Screen](gitassets/firstpic.png)
 
+**Gameplay**  
+![Gameplay](gitassets/gameplay.png)
 
-# First Project - JS Game
+**Game Over**  
+![Game Over](gitassets/gameover.png)
 
-    A browser based javascript made with vanilla javascript to learn the bascics of web dev and game dev 
+---
 
-## Overview 
+## 📝 Overview
 
-    This project was my final year project for my first year in school chose this game influenced by the classic mario game
+This project was my **final year project** for my first year in school. I chose a game inspired by the **classic Mario game**, focusing on learning **game logic, event handling, and animations**.
 
-## Features 
-    -Player movement
-    -parallax background
-    -starting page and game over page 
-    -enemy elimination
+---
 
-## Tech used
-    -Javascript
-    -HTML
-    -CSS
+## 🚀 Features
+- 🕹️ Player movement  
+- 🌄 Parallax background  
+- 🏁 Starting page and game over page  
+- 👾 Enemy elimination  
 
-## What i learned 
-    -Javascript
-    -Game logic 
-    -Organazied code
-    -How to check bugs
-    -Parallax background
-    -Animating with sprite sheets
-    -Handling events
+---
+
+## 🛠️ Tech Used
+- 💻 JavaScript  
+- 🌐 HTML  
+- 🎨 CSS  
+
+---
+
+## 📚 What I Learned
+- JavaScript fundamentals  
+- Game loop & logic  
+- Organizing code cleanly  
+- Debugging techniques  
+- Parallax backgrounds  
+- Animating with sprite sheets  
+- Handling events efficiently  
+
+---
+
+## 📦 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Walid-SEC/first-project-js-game-.git
