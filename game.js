@@ -10,6 +10,9 @@ let characterPos = { x: 0, y: 0 };
 let velocityY = 0;
 let isJumping = false;
 
+const attackSpritesheet = new Image();
+attackSpritesheet.src = 'attacksprite.png';
+
 // Enemy settings
 const enemySize = 65;
 const enemySpeed = 3;
@@ -139,6 +142,15 @@ function drawEnemies() {
     });
 }
 
+
+const startingPosition = { x: 450, y: 670 };
+
+
+function resetCharacter() {
+    characterPos.x = startingPosition.x; // Reset X position
+    characterPos.y = startingPosition.y; // Reset Y position
+}
+
 function checkCollisions() {
     const characterHitbox = {
         x: characterPos.x + 10,
@@ -162,6 +174,8 @@ function checkCollisions() {
             characterHitbox.y < enemyHitbox.y + enemyHitbox.height &&
             characterHitbox.y + characterHitbox.height > enemyHitbox.y) {
             console.log('Game Over!');
+            resetCharacter()
+            
         }
     });
 }

@@ -5,10 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parallax Game</title>
     <link rel="stylesheet" href="styles.css">
+    
 </head>
 <body>
     
-    <canvas id="gameCanvas"></canvas>
-    <script src="game.js"></script>
+   <div id="startPage">
+    <h1>Slash&Dash</h1>
+    <input id="usernameInput" placeholder="Enter your username" />
+    <button onclick="startGame()">Play</button>
+   </div>
+
+
+    <canvas id="gameCanvas" width="800" height="400"></canvas>
+    
+
+   
+    <script>document.getElementById("gameOverPage").style.display = "flex";</script>
+   
+ 
+    <div id="gameOverPage" class="gameOverPage">
+        <div class="content" >
+            <center><h1>Game Over</h1>
+            <button onclick="restartGame()">Play Again</button></center>
+            
+        </div>
+    </div>
+    
+    <script src="realfinal.js"></script> 
+    
 </body>
 </html>
