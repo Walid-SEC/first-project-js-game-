@@ -1,10 +1,12 @@
 ## GIF Demo
-    ![Gameplay Demo](gitassets/Recording2025-06-05165042-ezgif.com-video-to-gif-converter.gif)
+![Gameplay GIF](gitassets/gameplaygif.gif)
 
 ## Screenshots
-   ![Start Screen](gitassets/firstpic.png) 
-    ![Gameplay](gitassets/gameplay.png)
-    ![Game over](gitassets/gameover.png)
+![Start Screen](gitassets/firstpic.png)  
+    
+![Gameplay](gitassets/gameplay.png)  
+    
+![Game over](gitassets/gameover.png)
 
 
 
